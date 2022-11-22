@@ -1,6 +1,7 @@
 # devops_scripts
 author: Rudymatroja </br>
-change: 22-11-2022
+change: 22-11-2022 </br>
+Reason: auto create branch protection rule for default branch whenever new repo is created
 
 ## Script: repo_protectionrule
 Name: repo_protectionrule.py
