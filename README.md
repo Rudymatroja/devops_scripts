@@ -1,7 +1,6 @@
 # devops_scripts
-
-# author: Rudymatroja
-# change: 22-11-2022
+author: Rudymatroja
+change: 22-11-2022
 
 ## Script: repo_protectionrule
 Name: repo_protectionrule.py
