@@ -1,5 +1,15 @@
 #!/usr/bin/python
 
+"""
+AUTHOR: Rudy Matroja
+lang: python
+version: 3.11
+Usage: python script.py
+Tested: YES
+Reason: auto create branch protection rule for organization whenever new repo is created
+updated Date: 22-Nov-2022 07:18:49 CST
+"""
+
 # Import required Packages
 from flask import Flask
 from flask import request
